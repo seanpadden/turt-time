@@ -1,6 +1,6 @@
 # Turt Time!
 
-Sean has misplaced of his turts (again) and need your help to organize them.
+Sean has misplaced of his turts (again) and needs your help to organize them.
 
 All the information about Sean's turts can be found in the 'db.json' file, which you will need to fire up, using the following command in your terminal:
 

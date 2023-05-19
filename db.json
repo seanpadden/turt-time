@@ -1,0 +1,52 @@
+{
+  "turts": [
+    {
+      "id": 1,
+      "name": "Turty",
+      "image": "https://images.unsplash.com/photo-1591025207163-942350e47db2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80",
+      "likes": 5
+    },
+    {
+      "id": 2,
+      "name": "Smole Turt",
+      "image": "https://plus.unsplash.com/premium_photo-1670020267371-c87e0128ec47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80",
+      "likes": 8
+    },
+    {
+      "id": 3,
+      "name": "Angery Turt",
+      "image": "https://images.unsplash.com/photo-1604984938695-709c41f45cf1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2928&q=80",
+      "likes": 3
+    },
+    {
+      "id": 4,
+      "name": "Big Turt",
+      "image": "https://images.unsplash.com/photo-1521217155737-0d5632e9813f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80",
+      "likes": 4
+    },
+    {
+      "id": 5,
+      "name": "Goth Turt",
+      "image": "https://cdn.drawception.com/images/panels/2013/10-4/z44x3mTj4s-2.png",
+      "likes": 1
+    },
+    {
+      "id": 6,
+      "name": "Angsty Turt",
+      "image": "https://cdn.drawception.com/images/panels/2017/10-21/AgCp5LOPhk-6.png",
+      "likes": 2
+    },
+    {
+      "id": 7,
+      "name": "Squirtle Turt",
+      "image": "https://www.vhv.rs/dpng/d/573-5739572_squirtle-pokemon-squirtle-with-glasses-hd-png-download.png",
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "name": "Ghost Turt",
+      "image": "https://pbs.twimg.com/media/FAv2_ueWYAE5Kvo.png",
+      "likes": -2
+    }
+  ]
+}
